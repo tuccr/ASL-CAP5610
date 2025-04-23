@@ -1,4 +1,6 @@
 *.jpg
+*.png
 *.zip
+*.pth
 .conda/*
 .conda/
